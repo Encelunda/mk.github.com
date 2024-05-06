@@ -1,0 +1,92 @@
+ .card{
+    transition: all 0.3s;
+    width: 100px;
+    box-shadow: rgb(26, 44, 44);
+ }
+
+ .card:hover{
+    transform:scale(1.15);
+    
+ }
+ 
+
+
+ 
+ 
+ #form{
+    background-color:rgb(124, 222, 124); 
+    border-radius: 10px;
+    
+}
+label{
+    color: rgb(70, 70, 158);
+}
+button{
+    box-shadow: rgb(198, 228, 228);
+    border-radius: 5px;
+    
+}
+.col-md-4{
+    height: 300px;
+    
+}
+
+nav{
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color:rgb(124, 222, 124); 
+    color: white;
+    
+}
+
+#logo{
+    height: 200px;
+    width: 1200px;
+    box-shadow: rgb(27, 74, 74);
+    
+}
+
+.message{
+    border-bottom: 1px;
+    border-style: outset;
+    color: rgb(5, 126, 5);
+    margin-top: 5px;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+footer{
+    background-color:rgb(124, 222, 124) ;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+}
+
+#imggalerie{
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+#imgvideo{
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+#imgchan{
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
